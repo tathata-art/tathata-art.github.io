@@ -8,7 +8,7 @@ theme = "minimo"
 disqusShortname = ""
 googleAnalytics = ""
 
-Paginate = 5
+Paginate = 10
 preserveTaxonomyNames = true
 
 enableRobotsTXT = true # generate robots.txt
@@ -121,12 +121,6 @@ tag = "tags"
 [permalinks]
 page = "/:slug/"
 
-[[menu.main]]
-name = "Repo"
-weight = -10
-identifier = "repository"
-url = "https://github.com/tathata-art"
-
 [blackfriday]
 hrefTargetBlank = true
 
@@ -136,3 +130,9 @@ hrefTargetBlank = true
 lang = "en"
 languageName = "English"
 weight = 1
+
+[[menu.main]]
+name = "Support"
+weight = -5
+identifier = "support"
+url = "https://www.patreon.com/tathata"

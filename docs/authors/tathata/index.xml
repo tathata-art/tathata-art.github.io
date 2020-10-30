@@ -1,22 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Tathātā</title>
-    <link>https://tathata.art/</link>
-    <description>Recent content in Home on Tathātā</description>
+    <title>tathata on Tathātā</title>
+    <link>https://tathata.art/authors/tathata/</link>
+    <description>Recent content in tathata on Tathātā</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 12 Aug 2018 12:30:00 +0600</lastBuildDate><atom:link href="https://tathata.art/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>https://tathata.art/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tathata.art/about/</guid>
-      <description>Mínimo is a Spanish word that roughly translate to Minimal.
-Minimo is a minimalist theme for Hugo.
-Minimo keeps the focus on your content and lets it shine!</description>
-    </item>
-    
+    <lastBuildDate>Sun, 12 Aug 2018 12:30:00 +0600</lastBuildDate><atom:link href="https://tathata.art/authors/tathata/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>KaTeX Support</title>
       <link>https://tathata.art/articles/katex-support/</link>
@@ -39,24 +28,6 @@ When \( a \ne 0 \), there are two solutions to
 When {{&amp;lt; katex inline &amp;gt;}} a \ne 0 {{&amp;lt; /katex &amp;gt;}}, there are two solutions to {{&amp;lt; katex &amp;gt;}} ax^2 + bx + c = 0 {{&amp;lt; /katex &amp;gt;}} and they are: {{&amp;lt; katex &amp;gt;}} x = {-b \pm \sqrt{b^2-4ac} \over 2a} {{&amp;lt; /katex &amp;gt;}} Output:
 When \( a \ne 0 \), there are two solutions to
 \[ ax^2 + bx + c = 0 \] and they are:</description>
-    </item>
-    
-    <item>
-      <title>Search</title>
-      <link>https://tathata.art/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tathata.art/search/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tathata</title>
-      <link>https://tathata.art/authors/tathata/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tathata.art/authors/tathata/</guid>
-      <description></description>
     </item>
     
   </channel>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>katex on Tathātā</title>
-    <link>https://tathata.art/tags/katex/</link>
-    <description>Recent content in katex on Tathātā</description>
+    <title>Works on Tathātā</title>
+    <link>https://tathata.art/works/</link>
+    <description>Recent content in Works on Tathātā</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 12 Aug 2018 12:30:00 +0600</lastBuildDate><atom:link href="https://tathata.art/tags/katex/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Aug 2018 12:30:00 +0600</lastBuildDate><atom:link href="https://tathata.art/works/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>KaTeX Support</title>
-      <link>https://tathata.art/articles/katex-support/</link>
+      <title>Work 1</title>
+      <link>https://tathata.art/works/katex-support/</link>
       <pubDate>Sun, 12 Aug 2018 12:30:00 +0600</pubDate>
       
-      <guid>https://tathata.art/articles/katex-support/</guid>
+      <guid>https://tathata.art/works/katex-support/</guid>
       <description>KaTeX Syntax for Markdown Here&amp;rsquo;s an example Markdown content:
 When {{&amp;lt; katex inline &amp;gt;}} a \ne 0 {{&amp;lt; /katex &amp;gt;}}, there are two solutions to {{&amp;lt; katex &amp;gt;}} ax^2 + bx + c = 0 {{&amp;lt; /katex &amp;gt;}} and they are: {{&amp;lt; katex &amp;gt;}} x = {-b \pm \sqrt{b^2-4ac} \over 2a} {{&amp;lt; /katex &amp;gt;}} Output:
 When \( a \ne 0 \), there are two solutions to

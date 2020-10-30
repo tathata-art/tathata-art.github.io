@@ -4,19 +4,7 @@
     <title>Pages on Tathātā</title>
     <link>https://tathata.art/page/</link>
     <description>Recent content in Pages on Tathātā</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 28 Sep 2017 08:00:00 +0600</lastBuildDate><atom:link href="https://tathata.art/page/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Typography</title>
-      <link>https://tathata.art/typography/</link>
-      <pubDate>Thu, 28 Sep 2017 08:00:00 +0600</pubDate>
-      
-      <guid>https://tathata.art/typography/</guid>
-      <description>Here is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Heading 2 Another one. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Heading 4  First item Second item   Nested unordered item  Third item Nested ordered item 1 Nested ordered item 2  Heading 5 Where are the quotes!</description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://tathata.art/page/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://tathata.art/about/</link>

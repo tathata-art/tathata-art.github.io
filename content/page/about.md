@@ -2,7 +2,7 @@
 title: About
 description: What does Minimo even means?!
 menu: main
-weight: -210
+weight: -100
 ---
 
 Mínimo is a Spanish word that roughly translate to Minimal.

@@ -4,17 +4,7 @@
   
   <url>
     <loc>https://tathata.art/</loc>
-    <lastmod>2020-10-06T02:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/docs/</loc>
-    <lastmod>2020-10-06T02:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/typography/</loc>
-    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
+    <lastmod>2019-07-07T02:00:00+06:00</lastmod>
   </url>
   
   <url>
@@ -22,23 +12,38 @@
   </url>
   
   <url>
+    <loc>https://tathata.art/articles/</loc>
+    <lastmod>2019-07-07T02:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tathata.art/works/</loc>
+    <lastmod>2019-07-07T02:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://tathata.art/authors/</loc>
-    <lastmod>2020-10-06T02:00:00+06:00</lastmod>
+    <lastmod>2019-07-07T02:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://tathata.art/authors/</loc>
+    <lastmod>2019-07-07T02:00:00+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://tathata.art/categories/</loc>
-    <lastmod>2020-10-06T02:00:00+06:00</lastmod>
+    <lastmod>2019-07-07T02:00:00+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://tathata.art/tags/config/</loc>
-    <lastmod>2020-08-10T22:00:00+06:00</lastmod>
+    <lastmod>2019-07-07T02:00:00+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://tathata.art/categories/features/</loc>
-    <lastmod>2020-10-06T02:00:00+06:00</lastmod>
+    <lastmod>2019-07-07T02:00:00+06:00</lastmod>
   </url>
   
   <url>
@@ -47,193 +52,31 @@
   </url>
   
   <url>
-    <loc>https://tathata.art/docs/katex-support/</loc>
+    <loc>https://tathata.art/articles/katex-support/</loc>
     <lastmod>2019-07-07T02:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tathata.art/authors/muniftanjim/</loc>
-    <lastmod>2020-10-06T02:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://tathata.art/tags/</loc>
-    <lastmod>2020-10-06T02:00:00+06:00</lastmod>
+    <lastmod>2019-07-07T02:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tathata.art/tags/fuse.js/</loc>
-    <lastmod>2018-07-20T20:00:00+06:00</lastmod>
+    <loc>https://tathata.art/authors/tathata/</loc>
+    <lastmod>2019-07-07T02:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tathata.art/tags/search/</loc>
-    <lastmod>2018-07-20T20:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/docs/search-fuse-js/</loc>
-    <lastmod>2018-07-20T20:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/tags/algolia/</loc>
-    <lastmod>2018-07-05T23:30:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/docs/search-algolia/</loc>
-    <lastmod>2018-07-05T23:30:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/tags/lunr.js/</loc>
-    <lastmod>2018-07-05T20:30:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/docs/search-lunr-js/</loc>
-    <lastmod>2018-07-05T20:30:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/docs/search-support/</loc>
-    <lastmod>2018-07-06T01:30:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/docs/comments-support/</loc>
-    <lastmod>2020-08-10T22:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/docs/emoji-support/</loc>
-    <lastmod>2018-02-27T21:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/docs/mathjax-support/</loc>
-    <lastmod>2019-09-28T21:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/docs/sidebar/</loc>
-    <lastmod>2018-03-29T05:20:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/docs/widgets/</loc>
-    <lastmod>2018-11-21T19:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/tags/widgets/</loc>
-    <lastmod>2018-11-21T19:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/tags/shortcode/</loc>
-    <lastmod>2020-10-06T02:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/docs/shortcodes/</loc>
-    <lastmod>2020-10-06T02:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/docs/cover-image/</loc>
-    <lastmod>2018-06-04T23:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/page/</loc>
-    <lastmod>2017-09-28T08:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/tags/i18n/</loc>
-    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/tags/translation/</loc>
-    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/docs/translation/</loc>
-    <lastmod>2017-09-27T14:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/tags/chroma/</loc>
-    <lastmod>2017-09-27T12:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/tags/pygments/</loc>
-    <lastmod>2017-09-27T12:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/docs/syntax-highlighting/</loc>
-    <lastmod>2017-09-27T12:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/tags/menus/</loc>
-    <lastmod>2018-05-24T02:10:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/docs/menus/</loc>
-    <lastmod>2018-05-24T02:10:00+06:00</lastmod>
+    <loc>https://tathata.art/works/katex-support/</loc>
+    <lastmod>2019-07-07T02:00:00+06:00</lastmod>
   </url>
   
   <url>
     <loc>https://tathata.art/tags/og/</loc>
-    <lastmod>2017-10-11T18:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>https://tathata.art/docs/opengraph/</loc>
-    <lastmod>2017-10-11T18:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/tags/authors/</loc>
-    <lastmod>2017-10-11T17:30:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/docs/authors/</loc>
-    <lastmod>2017-10-11T17:30:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/docs/config-file/</loc>
-    <lastmod>2018-02-08T15:15:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/categories/others/</loc>
-    <lastmod>2018-02-08T15:15:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/categories/tutorial/</loc>
-    <lastmod>2018-02-08T15:00:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/docs/updating/</loc>
-    <lastmod>2018-02-08T14:45:00+06:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://tathata.art/docs/installation/</loc>
-    <lastmod>2018-02-08T15:00:00+06:00</lastmod>
+    <loc>https://tathata.art/page/</loc>
   </url>
   
   <url>
@@ -242,6 +85,10 @@
   
   <url>
     <loc>https://tathata.art/series/</loc>
+  </url>
+  
+  <url>
+    <loc>https://tathata.art/authors/tathata/</loc>
   </url>
   
 </urlset>

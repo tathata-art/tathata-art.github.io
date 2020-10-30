@@ -4,18 +4,6 @@
     <title>Opengraph on Tathātā</title>
     <link>https://tathata.art/tags/og/</link>
     <description>Recent content in Opengraph on Tathātā</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 26 Sep 2017 08:00:00 +0600</lastBuildDate><atom:link href="https://tathata.art/tags/og/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Opengraph Support</title>
-      <link>https://tathata.art/docs/opengraph/</link>
-      <pubDate>Tue, 26 Sep 2017 08:00:00 +0600</pubDate>
-      
-      <guid>https://tathata.art/docs/opengraph/</guid>
-      <description>Minimo has built-in support for Opengraph tags. It will pick up most of the things from your contents&#39; front-matters &amp;amp; Hugo configuration.
-You can use these options in you content&amp;rsquo;s front-matter:
---- audios: [] # for og:audio tags images: [] # for og:image tags videos: [] # for og:video tags ---  audios [Array of Strings]: path/url of audio files images [Array of Strings]: path/url of image files videos [Array of Strings]: path/url of video files  N.</description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://tathata.art/tags/og/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
