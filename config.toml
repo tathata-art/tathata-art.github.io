@@ -1,5 +1,5 @@
-baseURL = "http://www.example.com"
-title = "Tathata"
+baseURL = "https://tathata.art"
+title = "Tathātā"
 # for smart copyright line, leave this blank and check [params.copyright]
 copyright = ""
 
@@ -48,7 +48,7 @@ showReadingTime = true
 showLastmod = true
 taxonomyCloudShuffle = true
 accentColor = "#ffcd00"
-hideMainMenu = false
+hideMainMenu = true
 
 [params.sidebar]
 enable = true
@@ -125,7 +125,7 @@ page = "/:slug/"
 name = "Repo"
 weight = -10
 identifier = "repository"
-url = "https://github.com/MunifTanjim/minimo"
+url = "https://github.com/tathata-art"
 
 [blackfriday]
 hrefTargetBlank = true

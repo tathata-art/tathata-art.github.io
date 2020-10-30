@@ -5,5 +5,5 @@ menu:
   - sidebar
 weight: -270
 ---
-> Minimalism is not a lack of something. It’s simply the perfect amount of something.
-> — Nicholas Burroughs
+> Modern man has too many masks to wear. We must unmask and be ourselves, sincerely, earnestly and live truly as we are,
+> ― Gyomay M. Kubose

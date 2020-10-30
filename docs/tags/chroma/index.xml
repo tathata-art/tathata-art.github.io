@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>chroma on Tathata</title>
-    <link>http://www.example.com/tags/chroma/</link>
-    <description>Recent content in chroma on Tathata</description>
+    <title>chroma on Tathātā</title>
+    <link>https://tathata.art/tags/chroma/</link>
+    <description>Recent content in chroma on Tathātā</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 27 Sep 2017 12:00:00 +0600</lastBuildDate><atom:link href="http://www.example.com/tags/chroma/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Sep 2017 12:00:00 +0600</lastBuildDate><atom:link href="https://tathata.art/tags/chroma/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Syntax Highlighting</title>
-      <link>http://www.example.com/docs/syntax-highlighting/</link>
+      <link>https://tathata.art/docs/syntax-highlighting/</link>
       <pubDate>Wed, 27 Sep 2017 12:00:00 +0600</pubDate>
       
-      <guid>http://www.example.com/docs/syntax-highlighting/</guid>
+      <guid>https://tathata.art/docs/syntax-highlighting/</guid>
       <description>Hugo uses Chroma as it&amp;rsquo;s built-in syntax-highlighter.
 For detailed information about Syntax Highlighting in Hugo, check the Hugo&amp;rsquo;s Syntax Highlighting Documentation.</description>
     </item>

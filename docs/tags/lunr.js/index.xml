@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>lunr.js on Tathata</title>
-    <link>http://www.example.com/tags/lunr.js/</link>
-    <description>Recent content in lunr.js on Tathata</description>
+    <title>lunr.js on Tathātā</title>
+    <link>https://tathata.art/tags/lunr.js/</link>
+    <description>Recent content in lunr.js on Tathātā</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 05 Jul 2018 20:30:00 +0600</lastBuildDate><atom:link href="http://www.example.com/tags/lunr.js/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 05 Jul 2018 20:30:00 +0600</lastBuildDate><atom:link href="https://tathata.art/tags/lunr.js/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Search: Lunr.js</title>
-      <link>http://www.example.com/docs/search-lunr-js/</link>
+      <link>https://tathata.art/docs/search-lunr-js/</link>
       <pubDate>Thu, 05 Jul 2018 20:30:00 +0600</pubDate>
       
-      <guid>http://www.example.com/docs/search-lunr-js/</guid>
+      <guid>https://tathata.art/docs/search-lunr-js/</guid>
       <description>Configure Lunr.js Search Client Select Lunr.js as the search client in your config.toml file:
 [params.search] client = &amp;#34;lunr&amp;#34; Generate Search Index for Lunr.js Lunr.js will need a search index for searching across your site. So, you&amp;rsquo;ll need to generate that search index for Lunr.js before you deploy your site.
 Minimo comes with a script for generating the search index for Lunr.js: /scripts/generate-search-index-lunr.js.

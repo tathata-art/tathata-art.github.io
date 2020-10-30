@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Tathata</title>
-    <link>http://www.example.com/authors/</link>
-    <description>Recent content in Authors on Tathata</description>
+    <title>Authors on Tathātā</title>
+    <link>https://tathata.art/authors/</link>
+    <description>Recent content in Authors on Tathātā</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 12 Aug 2018 12:30:00 +0600</lastBuildDate><atom:link href="http://www.example.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Aug 2018 12:30:00 +0600</lastBuildDate><atom:link href="https://tathata.art/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>muniftanjim</title>
-      <link>http://www.example.com/authors/muniftanjim/</link>
+      <link>https://tathata.art/authors/muniftanjim/</link>
       <pubDate>Sun, 12 Aug 2018 12:30:00 +0600</pubDate>
       
-      <guid>http://www.example.com/authors/muniftanjim/</guid>
+      <guid>https://tathata.art/authors/muniftanjim/</guid>
       <description></description>
     </item>
     

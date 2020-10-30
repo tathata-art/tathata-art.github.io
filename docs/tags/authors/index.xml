@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>authors on Tathata</title>
-    <link>http://www.example.com/tags/authors/</link>
-    <description>Recent content in authors on Tathata</description>
+    <title>authors on Tathātā</title>
+    <link>https://tathata.art/tags/authors/</link>
+    <description>Recent content in authors on Tathātā</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 26 Sep 2017 06:00:00 +0600</lastBuildDate><atom:link href="http://www.example.com/tags/authors/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Sep 2017 06:00:00 +0600</lastBuildDate><atom:link href="https://tathata.art/tags/authors/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Authors Setup Guide</title>
-      <link>http://www.example.com/docs/authors/</link>
+      <link>https://tathata.art/docs/authors/</link>
       <pubDate>Tue, 26 Sep 2017 06:00:00 +0600</pubDate>
       
-      <guid>http://www.example.com/docs/authors/</guid>
+      <guid>https://tathata.art/docs/authors/</guid>
       <description>Minimo supports multiple authors for your site. Just make sure you have the following configuration in your site&amp;rsquo;s config.toml:
 [taxonomies] author = &amp;#34;authors&amp;#34; Minimo treats Authors as a Hugo Taxonomy.
 Author&amp;rsquo;s Profile For adding an author to your site:

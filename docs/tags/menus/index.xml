@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>menus on Tathata</title>
-    <link>http://www.example.com/tags/menus/</link>
-    <description>Recent content in menus on Tathata</description>
+    <title>menus on Tathātā</title>
+    <link>https://tathata.art/tags/menus/</link>
+    <description>Recent content in menus on Tathātā</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 27 Sep 2017 10:00:00 +0600</lastBuildDate><atom:link href="http://www.example.com/tags/menus/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 27 Sep 2017 10:00:00 +0600</lastBuildDate><atom:link href="https://tathata.art/tags/menus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Menus Setup Guide</title>
-      <link>http://www.example.com/docs/menus/</link>
+      <link>https://tathata.art/docs/menus/</link>
       <pubDate>Wed, 27 Sep 2017 10:00:00 +0600</pubDate>
       
-      <guid>http://www.example.com/docs/menus/</guid>
+      <guid>https://tathata.art/docs/menus/</guid>
       <description>Minimo has three menus.
  Main Menu Sidebar Menu Social Menu  Main Menu name: main
 Main menu is located at the top of the site.

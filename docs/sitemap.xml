@@ -3,245 +3,245 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://tathata.art/</loc>
     <lastmod>2020-10-06T02:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/docs/</loc>
+    <loc>https://tathata.art/docs/</loc>
     <lastmod>2020-10-06T02:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/typography/</loc>
+    <loc>https://tathata.art/typography/</loc>
     <lastmod>2017-09-28T08:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/about/</loc>
+    <loc>https://tathata.art/about/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/authors/</loc>
+    <loc>https://tathata.art/authors/</loc>
     <lastmod>2020-10-06T02:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://tathata.art/categories/</loc>
     <lastmod>2020-10-06T02:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/config/</loc>
+    <loc>https://tathata.art/tags/config/</loc>
     <lastmod>2020-08-10T22:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/features/</loc>
+    <loc>https://tathata.art/categories/features/</loc>
     <lastmod>2020-10-06T02:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/katex/</loc>
+    <loc>https://tathata.art/tags/katex/</loc>
     <lastmod>2019-07-07T02:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/docs/katex-support/</loc>
+    <loc>https://tathata.art/docs/katex-support/</loc>
     <lastmod>2019-07-07T02:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/authors/muniftanjim/</loc>
+    <loc>https://tathata.art/authors/muniftanjim/</loc>
     <lastmod>2020-10-06T02:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/</loc>
+    <loc>https://tathata.art/tags/</loc>
     <lastmod>2020-10-06T02:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/fuse.js/</loc>
+    <loc>https://tathata.art/tags/fuse.js/</loc>
     <lastmod>2018-07-20T20:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/search/</loc>
+    <loc>https://tathata.art/tags/search/</loc>
     <lastmod>2018-07-20T20:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/docs/search-fuse-js/</loc>
+    <loc>https://tathata.art/docs/search-fuse-js/</loc>
     <lastmod>2018-07-20T20:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/algolia/</loc>
+    <loc>https://tathata.art/tags/algolia/</loc>
     <lastmod>2018-07-05T23:30:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/docs/search-algolia/</loc>
+    <loc>https://tathata.art/docs/search-algolia/</loc>
     <lastmod>2018-07-05T23:30:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/lunr.js/</loc>
+    <loc>https://tathata.art/tags/lunr.js/</loc>
     <lastmod>2018-07-05T20:30:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/docs/search-lunr-js/</loc>
+    <loc>https://tathata.art/docs/search-lunr-js/</loc>
     <lastmod>2018-07-05T20:30:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/docs/search-support/</loc>
+    <loc>https://tathata.art/docs/search-support/</loc>
     <lastmod>2018-07-06T01:30:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/docs/comments-support/</loc>
+    <loc>https://tathata.art/docs/comments-support/</loc>
     <lastmod>2020-08-10T22:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/docs/emoji-support/</loc>
+    <loc>https://tathata.art/docs/emoji-support/</loc>
     <lastmod>2018-02-27T21:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/docs/mathjax-support/</loc>
+    <loc>https://tathata.art/docs/mathjax-support/</loc>
     <lastmod>2019-09-28T21:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/docs/sidebar/</loc>
+    <loc>https://tathata.art/docs/sidebar/</loc>
     <lastmod>2018-03-29T05:20:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/docs/widgets/</loc>
+    <loc>https://tathata.art/docs/widgets/</loc>
     <lastmod>2018-11-21T19:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/widgets/</loc>
+    <loc>https://tathata.art/tags/widgets/</loc>
     <lastmod>2018-11-21T19:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/shortcode/</loc>
+    <loc>https://tathata.art/tags/shortcode/</loc>
     <lastmod>2020-10-06T02:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/docs/shortcodes/</loc>
+    <loc>https://tathata.art/docs/shortcodes/</loc>
     <lastmod>2020-10-06T02:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/docs/cover-image/</loc>
+    <loc>https://tathata.art/docs/cover-image/</loc>
     <lastmod>2018-06-04T23:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/page/</loc>
+    <loc>https://tathata.art/page/</loc>
     <lastmod>2017-09-28T08:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/i18n/</loc>
+    <loc>https://tathata.art/tags/i18n/</loc>
     <lastmod>2017-09-27T14:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/translation/</loc>
+    <loc>https://tathata.art/tags/translation/</loc>
     <lastmod>2017-09-27T14:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/docs/translation/</loc>
+    <loc>https://tathata.art/docs/translation/</loc>
     <lastmod>2017-09-27T14:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/chroma/</loc>
+    <loc>https://tathata.art/tags/chroma/</loc>
     <lastmod>2017-09-27T12:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/pygments/</loc>
+    <loc>https://tathata.art/tags/pygments/</loc>
     <lastmod>2017-09-27T12:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/docs/syntax-highlighting/</loc>
+    <loc>https://tathata.art/docs/syntax-highlighting/</loc>
     <lastmod>2017-09-27T12:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/menus/</loc>
+    <loc>https://tathata.art/tags/menus/</loc>
     <lastmod>2018-05-24T02:10:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/docs/menus/</loc>
+    <loc>https://tathata.art/docs/menus/</loc>
     <lastmod>2018-05-24T02:10:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/og/</loc>
+    <loc>https://tathata.art/tags/og/</loc>
     <lastmod>2017-10-11T18:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/docs/opengraph/</loc>
+    <loc>https://tathata.art/docs/opengraph/</loc>
     <lastmod>2017-10-11T18:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/authors/</loc>
+    <loc>https://tathata.art/tags/authors/</loc>
     <lastmod>2017-10-11T17:30:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/docs/authors/</loc>
+    <loc>https://tathata.art/docs/authors/</loc>
     <lastmod>2017-10-11T17:30:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/docs/config-file/</loc>
+    <loc>https://tathata.art/docs/config-file/</loc>
     <lastmod>2018-02-08T15:15:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/others/</loc>
+    <loc>https://tathata.art/categories/others/</loc>
     <lastmod>2018-02-08T15:15:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/tutorial/</loc>
+    <loc>https://tathata.art/categories/tutorial/</loc>
     <lastmod>2018-02-08T15:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/docs/updating/</loc>
+    <loc>https://tathata.art/docs/updating/</loc>
     <lastmod>2018-02-08T14:45:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/docs/installation/</loc>
+    <loc>https://tathata.art/docs/installation/</loc>
     <lastmod>2018-02-08T15:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/search/</loc>
+    <loc>https://tathata.art/search/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/series/</loc>
+    <loc>https://tathata.art/series/</loc>
   </url>
   
 </urlset>
