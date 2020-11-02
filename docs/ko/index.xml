@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Tathātā</title>
+    <link>https://tathata.art/ko/</link>
+    <description>Recent content in Home on Tathātā</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 12 Oct 2020 12:30:00 +0600</lastBuildDate><atom:link href="https://tathata.art/ko/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://tathata.art/ko/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://tathata.art/ko/about/</guid>
+      <description> 진여(眞如)는 &amp;ldquo;있는 그대로의 것&amp;rdquo; · &amp;ldquo;꼭 그러한 것&amp;quot;을 뜻하는 산스크리트어 타타타(तथाता, tathātā)의 번역어이다. - 위키백과
+ 모임 소개 예술적 재활이란 다소 거창한 단어를 사용했지만, 사실 (마음 먹으면) 누구나 할 수 있는, 하지만 (시간과 일에 쫓겨) 아무나 하지 못하는 일을 합니다. 일상에서 예술의 흔적을 발견하는 능력과 자신의 감정과 생각을 다양한 매체를 이용해 표현하는 능력을 회복하는 활동을 합니다.
+타타타 선언  하나  구성원  Minhwan Kim  </description>
+    </item>
+    
+    <item>
+      <title>Usefulness of Uselessness</title>
+      <link>https://tathata.art/ko/articles/usefulness-of-uselessness/</link>
+      <pubDate>Mon, 12 Oct 2020 12:30:00 +0600</pubDate>
+      
+      <guid>https://tathata.art/ko/articles/usefulness-of-uselessness/</guid>
+      <description>Obsession for efficiency </description>
+    </item>
+    
+    <item>
+      <title>Frozen Origami</title>
+      <link>https://tathata.art/ko/works/frozen-origami/</link>
+      <pubDate>Sun, 12 Aug 2018 12:30:00 +0600</pubDate>
+      
+      <guid>https://tathata.art/ko/works/frozen-origami/</guid>
+      <description>Frozen Origami </description>
+    </item>
+    
+  </channel>
+</rss>

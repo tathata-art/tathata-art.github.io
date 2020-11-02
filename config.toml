@@ -74,8 +74,7 @@ titleSeparator = "•"
 [params.social]
 email = "thatata.art.group@gmail.com"
 github = "tathata-art"
-instagram = "tathata.art"
-telegram = "tathata.art"
+instagram = "tathata.art.group"
 
 [params.comments]
 enable = false
@@ -124,15 +123,22 @@ page = "/:slug/"
 [blackfriday]
 hrefTargetBlank = true
 
-[languages]
-# edit this block for your own language
-[languages.en]
-lang = "en"
-languageName = "English"
-weight = 1
-
 [[menu.main]]
 name = "Support"
 weight = -5
 identifier = "support"
 url = "https://www.patreon.com/tathata"
+
+[languages]
+# edit this block for your own language
+[languages.en]
+lang = "en"
+languageName = "English"
+title = "Tathātā"
+weight = 2
+
+[languages.ko]
+lang = "ko"
+languageName = "Korean"
+title = "Tathātā"
+weight = 1

@@ -4,19 +4,6 @@
     <title>Configuration on Tathātā</title>
     <link>https://tathata.art/tags/config/</link>
     <description>Recent content in Configuration on Tathātā</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 12 Aug 2018 12:30:00 +0600</lastBuildDate><atom:link href="https://tathata.art/tags/config/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>KaTeX Support</title>
-      <link>https://tathata.art/articles/katex-support/</link>
-      <pubDate>Sun, 12 Aug 2018 12:30:00 +0600</pubDate>
-      
-      <guid>https://tathata.art/articles/katex-support/</guid>
-      <description>KaTeX Syntax for Markdown Here&amp;rsquo;s an example Markdown content:
-When {{&amp;lt; katex inline &amp;gt;}} a \ne 0 {{&amp;lt; /katex &amp;gt;}}, there are two solutions to {{&amp;lt; katex &amp;gt;}} ax^2 + bx + c = 0 {{&amp;lt; /katex &amp;gt;}} and they are: {{&amp;lt; katex &amp;gt;}} x = {-b \pm \sqrt{b^2-4ac} \over 2a} {{&amp;lt; /katex &amp;gt;}} Output:
-When \( a \ne 0 \), there are two solutions to
-\[ ax^2 + bx + c = 0 \] and they are:</description>
-    </item>
-    
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://tathata.art/tags/config/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

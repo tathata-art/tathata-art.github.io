@@ -5,40 +5,33 @@
     <link>https://tathata.art/</link>
     <description>Recent content in Home on Tathātā</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 12 Aug 2018 12:30:00 +0600</lastBuildDate><atom:link href="https://tathata.art/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 12 Oct 2020 12:30:00 +0600</lastBuildDate><atom:link href="https://tathata.art/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
       <link>https://tathata.art/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tathata.art/about/</guid>
-      <description>Mínimo is a Spanish word that roughly translate to Minimal.
-Minimo is a minimalist theme for Hugo.
-Minimo keeps the focus on your content and lets it shine!</description>
+      <description>Tathātā (Skt.). Term meaning ‘suchness’, and denoting the way things are in truth or actuality, and used especially in Mahāyāna Buddhism to denote the essential nature of reality and the quiddity or true mode of being of phenomena which is beyond the range of conceptual thought. - A Dictionary of Buddhism, Oxford Press
+ Introduction We use the term &amp;ldquo;artistic rehabilitation&amp;rdquo; as a simple activity to regain our abilities expressing thoughts and emotions via various types of medium.</description>
     </item>
     
     <item>
-      <title>KaTeX Support</title>
-      <link>https://tathata.art/articles/katex-support/</link>
-      <pubDate>Sun, 12 Aug 2018 12:30:00 +0600</pubDate>
+      <title>Usefulness of Uselessness</title>
+      <link>https://tathata.art/articles/usefulness-of-uselessness/</link>
+      <pubDate>Mon, 12 Oct 2020 12:30:00 +0600</pubDate>
       
-      <guid>https://tathata.art/articles/katex-support/</guid>
-      <description>KaTeX Syntax for Markdown Here&amp;rsquo;s an example Markdown content:
-When {{&amp;lt; katex inline &amp;gt;}} a \ne 0 {{&amp;lt; /katex &amp;gt;}}, there are two solutions to {{&amp;lt; katex &amp;gt;}} ax^2 + bx + c = 0 {{&amp;lt; /katex &amp;gt;}} and they are: {{&amp;lt; katex &amp;gt;}} x = {-b \pm \sqrt{b^2-4ac} \over 2a} {{&amp;lt; /katex &amp;gt;}} Output:
-When \( a \ne 0 \), there are two solutions to
-\[ ax^2 + bx + c = 0 \] and they are:</description>
+      <guid>https://tathata.art/articles/usefulness-of-uselessness/</guid>
+      <description>Obsession for efficiency </description>
     </item>
     
     <item>
-      <title>Work 1</title>
-      <link>https://tathata.art/works/katex-support/</link>
+      <title>Frozen Origami</title>
+      <link>https://tathata.art/works/frozen-origami/</link>
       <pubDate>Sun, 12 Aug 2018 12:30:00 +0600</pubDate>
       
-      <guid>https://tathata.art/works/katex-support/</guid>
-      <description>KaTeX Syntax for Markdown Here&amp;rsquo;s an example Markdown content:
-When {{&amp;lt; katex inline &amp;gt;}} a \ne 0 {{&amp;lt; /katex &amp;gt;}}, there are two solutions to {{&amp;lt; katex &amp;gt;}} ax^2 + bx + c = 0 {{&amp;lt; /katex &amp;gt;}} and they are: {{&amp;lt; katex &amp;gt;}} x = {-b \pm \sqrt{b^2-4ac} \over 2a} {{&amp;lt; /katex &amp;gt;}} Output:
-When \( a \ne 0 \), there are two solutions to
-\[ ax^2 + bx + c = 0 \] and they are:</description>
+      <guid>https://tathata.art/works/frozen-origami/</guid>
+      <description>Frozen Origami </description>
     </item>
     
     <item>
@@ -47,15 +40,6 @@ When \( a \ne 0 \), there are two solutions to
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://tathata.art/search/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tathata</title>
-      <link>https://tathata.art/authors/tathata/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://tathata.art/authors/tathata/</guid>
       <description></description>
     </item>
     

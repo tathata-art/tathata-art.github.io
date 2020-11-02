@@ -1,0 +1,16 @@
+{{ if .Site.IsMultiLingual }}
+<nav aria-label="Language switcher"
+     style="position: absolute; top: 10px; right: 10px; color: gray; font-size: 10pt;">
+  {{ range .Site.Languages }}
+    {{ if eq . $.Site.Language }}
+  <span aria-label="{{ i18n "ariaLanguage" }}{{ .LanguageName }}">
+    <b style="color: black;"> {{ .Lang }}</b>
+  </span>
+    {{ end }}
+  {{ end }}
+|
+  {{ range $.Translations }}
+    <a title="{{ .Language.LanguageName }}" href="{{ .Permalink }}" aria-label="{{ i18n "ariaTranslation" }}{{ .Language.LanguageName }}">{{ .Language.Lang }}</a>
+  {{ end }}
+</nav>
+{{ end }}
